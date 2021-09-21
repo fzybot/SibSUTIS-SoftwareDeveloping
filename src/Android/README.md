@@ -24,6 +24,7 @@ cd /android-studio/bin
 - [Kotlin] - удобный интерфейс для начального изучения Kotlin (очень удобно работать на примерах). Также есть [github] репозиторий с примерами.
 ### Android Java
 #### Урок 1. Activity Life Cycle (Жизненый цикл приложения)
+- [Android developer - Activity Life Cycle] - основная документация.
 - [ActivityLifeCycle] - жизненый цикл activity. Довольно подробно и легко объясняется работа activity.
 
  [Android Studio]: <https://developer.android.com/studio>
@@ -32,3 +33,4 @@ cd /android-studio/bin
  [Start Android]: <https://www.youtube.com/channel/UCzE7HcbvyEiS5ea1rVRbPLQ>
  [github]: <https://github.com/Kotlin/kotlin-by-example/tree/master/examples>
  [ActivityLifeCycle]: <http://developer.alexanderklimov.ru/android/theory/lifecycle.php>
+ [Android developer - Activity Life Cycle]: <https://developer.android.com/guide/components/activities/activity-lifecycle>
