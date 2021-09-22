@@ -1,6 +1,7 @@
 # Шаблоны проектирования
 ## Полезная литература:
-- "Рефакторинг Гуру. Основные понятия паттернов, много примеров.", Available [online]: https://refactoring.guru/ru
-# Git
-## Приятное оформление README.md:
-- https://dillinger.io/
+- [Refactoring Guru]. Основные понятия паттернов, много примеров.
+- Git. Приятное оформление [Readme.md].
+
+[Refactoring Guru]: <https://refactoring.guru/ru>
+[Readme.md]: <https://dillinger.io/>
