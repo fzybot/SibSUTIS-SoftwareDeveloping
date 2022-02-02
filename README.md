@@ -3,6 +3,10 @@
 ### Шаблоны проектирования
 - [Refactoring Guru]. Основные понятия паттернов, много примеров.
 - [Паттерны Объектно-ориентированного программирования]. Хорошая, добротная книжка с множеством примеров и описанием основных шаблонов проектирования.
+### C++
+- Хорошие лекции от разработчиков известной компании в отрасли связи: [C++ от Nokia].
+### Python
+- 
 ### LaTeX
 - [Набор и Верстка в Системе LaTeX]. Хорошее описание множества нюансов работы в системе LaTeX.
 ### Git
@@ -11,4 +15,5 @@
 [Refactoring Guru]: <https://refactoring.guru/ru>
 [Набор и Верстка в Системе LaTeX]: <https://drive.google.com/drive/folders/1M8zEEQDzYi4toMN_6vNZyNEIPsYAieK3?usp=sharing>
 [Паттерны Объектно-ориентированного программирования]: <https://drive.google.com/file/d/1DOFIrFpzYA803INzojL6nCyS1LB0twC1/view?usp=sharing>
+[C++ от Nokia]: <https://drive.google.com/drive/folders/12eZ849m-1uGXR3Faw81cMQqYF1Vl82Dz?usp=sharing>
 [Readme.md]: <https://dillinger.io/>
