@@ -6,7 +6,7 @@
 ### C++
 - Хорошие лекции от разработчиков известной компании в отрасли связи: [C++ от Nokia].
 ### Python
-- 
+- [Марк Лутц] - программирование (теория + практика) на Python. Хорошая энциклопедия по Python. Не читать от корки до корки, желательно точечно, по необходимым пунктам (личный опыт).
 ### LaTeX
 - [Набор и Верстка в Системе LaTeX]. Хорошее описание множества нюансов работы в системе LaTeX.
 ### Git
@@ -17,3 +17,4 @@
 [Паттерны Объектно-ориентированного программирования]: <https://drive.google.com/file/d/1DOFIrFpzYA803INzojL6nCyS1LB0twC1/view?usp=sharing>
 [C++ от Nokia]: <https://drive.google.com/drive/folders/12eZ849m-1uGXR3Faw81cMQqYF1Vl82Dz?usp=sharing>
 [Readme.md]: <https://dillinger.io/>
+[Марк Лутц]: <https://drive.google.com/drive/folders/1dWtZxjW2OSK-5ztTv01PNhVI5DF2pOr6?usp=sharing>
