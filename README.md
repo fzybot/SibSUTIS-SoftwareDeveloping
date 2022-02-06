@@ -5,6 +5,7 @@
 - [Паттерны Объектно-ориентированного программирования]. Хорошая, добротная книжка с множеством примеров и описанием основных шаблонов проектирования.
 ### C++
 - Хорошие лекции от разработчиков известной компании в отрасли связи: [C++ от Nokia].
+- [Lafore - OOP C++] - книжка по основам ООП С++.
 ### Python
 - [Марк Лутц] - программирование (теория + практика) на Python. Хорошая энциклопедия по Python. Не читать от корки до корки, желательно точечно, по необходимым пунктам (личный опыт).
 ### Java
@@ -21,3 +22,4 @@
 [Readme.md]: <https://dillinger.io/>
 [Марк Лутц]: <https://drive.google.com/drive/folders/1dWtZxjW2OSK-5ztTv01PNhVI5DF2pOr6?usp=sharing>
 [Thinking in Java]: <https://drive.google.com/drive/folders/1xx0EOi9LMDmf8GQsHpg6kzL4G50PpXei?usp=sharing>
+[Lafore - OOP C++]: <https://drive.google.com/file/d/1ldqyiKnWPagN2-S1hbVURsQVdslBUumT/view?usp=sharing>
