@@ -7,7 +7,9 @@
 - Хорошие лекции от разработчиков известной компании в отрасли связи: [C++ от Nokia].
 - [Lafore - OOP C++] - книжка по основам ООП С++.
 ### Python
+- Лекционные и практические материалы находятся в папке Python (по-немногу будет наполняться).
 - [Марк Лутц] - программирование (теория + практика) на Python. Хорошая энциклопедия по Python. Не читать от корки до корки, желательно точечно, по необходимым пунктам (личный опыт).
+- Руководство по написанию кода PEP8 ([PEP8 Rus], [PEP8 Eng]).
 ### Java
 - [Thinking in Java] - начинать с этого. 
 ### LaTeX
@@ -23,3 +25,5 @@
 [Марк Лутц]: <https://drive.google.com/drive/folders/1dWtZxjW2OSK-5ztTv01PNhVI5DF2pOr6?usp=sharing>
 [Thinking in Java]: <https://drive.google.com/drive/folders/1xx0EOi9LMDmf8GQsHpg6kzL4G50PpXei?usp=sharing>
 [Lafore - OOP C++]: <https://drive.google.com/file/d/1ldqyiKnWPagN2-S1hbVURsQVdslBUumT/view?usp=sharing>
+[PEP8 Rus]: <https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html>
+[PEP8 Eng]: <https://peps.python.org/pep-0008/>
