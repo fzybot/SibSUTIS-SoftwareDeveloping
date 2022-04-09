@@ -10,6 +10,7 @@
 - Лекционные и практические материалы находятся в папке Python (по-немногу будет наполняться).
 - [Марк Лутц] - программирование (теория + практика) на Python. Хорошая энциклопедия по Python. Не читать от корки до корки, желательно точечно, по необходимым пунктам (личный опыт).
 - Руководство по написанию кода PEP8 ([PEP8 Rus], [PEP8 Eng]).
+- Документирование кода в Python - [PEP 257]
 ### Java
 - [Thinking in Java] - начинать с этого. 
 ### LaTeX
@@ -27,3 +28,4 @@
 [Lafore - OOP C++]: <https://drive.google.com/file/d/1ldqyiKnWPagN2-S1hbVURsQVdslBUumT/view?usp=sharing>
 [PEP8 Rus]: <https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html>
 [PEP8 Eng]: <https://peps.python.org/pep-0008/>
+[PEP 257]: <https://pythonworld.ru/osnovy/dokumentirovanie-koda-v-python-pep-257.html>
